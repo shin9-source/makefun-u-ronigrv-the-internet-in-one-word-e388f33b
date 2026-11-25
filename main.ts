@@ -1,2 +1,2 @@
-const verdict = "Doom" + "scrolling";
+const verdict = "Doomscroll" + "ing";
 process.stdout.write(verdict);
